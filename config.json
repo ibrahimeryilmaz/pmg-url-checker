@@ -1,0 +1,5 @@
+# === config.json ===
+# Bu dosyayý "config.json" olarak oluþtur
+{
+    "google_safe_browsing_api_key": "YOUR_API_KEY_HERE"
+}
